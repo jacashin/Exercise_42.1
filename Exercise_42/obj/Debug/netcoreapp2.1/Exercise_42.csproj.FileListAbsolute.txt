@@ -1,0 +1,11 @@
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\bin\Debug\netcoreapp2.1\Exercise_42.deps.json
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\bin\Debug\netcoreapp2.1\Exercise_42.runtimeconfig.json
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\bin\Debug\netcoreapp2.1\Exercise_42.runtimeconfig.dev.json
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\bin\Debug\netcoreapp2.1\Exercise_42.dll
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\bin\Debug\netcoreapp2.1\Exercise_42.pdb
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\obj\Debug\netcoreapp2.1\Exercise_42.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\obj\Debug\netcoreapp2.1\Exercise_42.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\obj\Debug\netcoreapp2.1\Exercise_42.AssemblyInfoInputs.cache
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\obj\Debug\netcoreapp2.1\Exercise_42.AssemblyInfo.cs
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\obj\Debug\netcoreapp2.1\Exercise_42.dll
+C:\Users\YL\source\repos\Exercise_42\Exercise_42\obj\Debug\netcoreapp2.1\Exercise_42.pdb
